@@ -1,0 +1,14 @@
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\bin\Debug\net8.0\Exercicio_01_PO.exe
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\bin\Debug\net8.0\Exercicio_01_PO.deps.json
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\bin\Debug\net8.0\Exercicio_01_PO.runtimeconfig.json
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\bin\Debug\net8.0\Exercicio_01_PO.dll
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\bin\Debug\net8.0\Exercicio_01_PO.pdb
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\obj\Debug\net8.0\Exercicio_01_PO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\obj\Debug\net8.0\Exercicio_01_PO.AssemblyInfoInputs.cache
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\obj\Debug\net8.0\Exercicio_01_PO.AssemblyInfo.cs
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\obj\Debug\net8.0\Exercicio_01_PO.csproj.CoreCompileInputs.cache
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\obj\Debug\net8.0\Exercicio_01_PO.dll
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\obj\Debug\net8.0\refint\Exercicio_01_PO.dll
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\obj\Debug\net8.0\Exercicio_01_PO.pdb
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\obj\Debug\net8.0\Exercicio_01_PO.genruntimeconfig.cache
+C:\Users\2023102060017\source\repos\Exercicio_01_PO\Exercicio_01_PO\obj\Debug\net8.0\ref\Exercicio_01_PO.dll

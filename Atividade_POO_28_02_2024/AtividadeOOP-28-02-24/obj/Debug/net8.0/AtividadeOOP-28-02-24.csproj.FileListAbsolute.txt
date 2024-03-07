@@ -1,0 +1,14 @@
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\bin\Debug\net8.0\AtividadeOOP-28-02-24.exe
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\bin\Debug\net8.0\AtividadeOOP-28-02-24.deps.json
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\bin\Debug\net8.0\AtividadeOOP-28-02-24.runtimeconfig.json
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\bin\Debug\net8.0\AtividadeOOP-28-02-24.dll
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\bin\Debug\net8.0\AtividadeOOP-28-02-24.pdb
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\obj\Debug\net8.0\AtividadeOOP-28-02-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\obj\Debug\net8.0\AtividadeOOP-28-02-24.AssemblyInfoInputs.cache
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\obj\Debug\net8.0\AtividadeOOP-28-02-24.AssemblyInfo.cs
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\obj\Debug\net8.0\AtividadeOOP-28-02-24.csproj.CoreCompileInputs.cache
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\obj\Debug\net8.0\AtividadeOOP-28-02-24.dll
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\obj\Debug\net8.0\refint\AtividadeOOP-28-02-24.dll
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\obj\Debug\net8.0\AtividadeOOP-28-02-24.pdb
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\obj\Debug\net8.0\AtividadeOOP-28-02-24.genruntimeconfig.cache
+C:\Users\2023102060017\source\repos\AtividadeOOP-28-02-24\AtividadeOOP-28-02-24\obj\Debug\net8.0\ref\AtividadeOOP-28-02-24.dll
