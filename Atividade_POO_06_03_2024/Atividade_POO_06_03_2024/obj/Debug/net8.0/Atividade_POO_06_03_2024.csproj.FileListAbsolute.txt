@@ -1,0 +1,14 @@
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\bin\Debug\net8.0\Atividade_POO_06_03_2024.exe
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\bin\Debug\net8.0\Atividade_POO_06_03_2024.deps.json
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\bin\Debug\net8.0\Atividade_POO_06_03_2024.runtimeconfig.json
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\bin\Debug\net8.0\Atividade_POO_06_03_2024.dll
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\bin\Debug\net8.0\Atividade_POO_06_03_2024.pdb
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\obj\Debug\net8.0\Atividade_POO_06_03_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\obj\Debug\net8.0\Atividade_POO_06_03_2024.AssemblyInfoInputs.cache
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\obj\Debug\net8.0\Atividade_POO_06_03_2024.AssemblyInfo.cs
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\obj\Debug\net8.0\Atividade_POO_06_03_2024.csproj.CoreCompileInputs.cache
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\obj\Debug\net8.0\Atividade_POO_06_03_2024.dll
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\obj\Debug\net8.0\refint\Atividade_POO_06_03_2024.dll
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\obj\Debug\net8.0\Atividade_POO_06_03_2024.pdb
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\obj\Debug\net8.0\Atividade_POO_06_03_2024.genruntimeconfig.cache
+C:\Users\2023102060017\source\repos\Atividade_POO_06_03_2024\Atividade_POO_06_03_2024\obj\Debug\net8.0\ref\Atividade_POO_06_03_2024.dll
