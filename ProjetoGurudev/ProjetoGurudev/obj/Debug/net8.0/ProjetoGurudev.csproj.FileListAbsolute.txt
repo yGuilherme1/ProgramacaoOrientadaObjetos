@@ -1,0 +1,14 @@
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\bin\Debug\net8.0\ProjetoGurudev.exe
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\bin\Debug\net8.0\ProjetoGurudev.deps.json
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\bin\Debug\net8.0\ProjetoGurudev.runtimeconfig.json
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\bin\Debug\net8.0\ProjetoGurudev.dll
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\bin\Debug\net8.0\ProjetoGurudev.pdb
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\obj\Debug\net8.0\ProjetoGurudev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\obj\Debug\net8.0\ProjetoGurudev.AssemblyInfoInputs.cache
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\obj\Debug\net8.0\ProjetoGurudev.AssemblyInfo.cs
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\obj\Debug\net8.0\ProjetoGurudev.csproj.CoreCompileInputs.cache
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\obj\Debug\net8.0\ProjetoGurudev.dll
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\obj\Debug\net8.0\refint\ProjetoGurudev.dll
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\obj\Debug\net8.0\ProjetoGurudev.pdb
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\obj\Debug\net8.0\ProjetoGurudev.genruntimeconfig.cache
+C:\Users\2023102060017\source\repos\ProjetoGurudev\ProjetoGurudev\obj\Debug\net8.0\ref\ProjetoGurudev.dll
